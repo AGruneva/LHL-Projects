@@ -35,5 +35,5 @@
 📝 **Description:**  
 Designed and implemented a log monitoring workflow to track and analyze HTTP 404 errors on web servers. The workflow collects Apache access logs, automates log extraction via Bash scripting and cron jobs, and processes data using a Python script to detect unusual traffic patterns. The final analysis is scheduled on Windows Task Scheduler to ensure continuous monitoring and proactive issue resolution.  
 
-🔗 **Report:** [Log Monitoring Workflow Report](https://github.com/AGruneva/LHL-Projects/blob/main/Log_Monitoring_Workflow.pdf)  
+🔗 **Report:** [Log Monitoring Workflow Report](https://github.com/AGruneva/LHL-Projects/blob/main/Log%20Monitoring%20Workflow.pdf)
 ---
