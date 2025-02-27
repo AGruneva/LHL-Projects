@@ -32,8 +32,7 @@
 [![Python](https://img.shields.io/badge/Python_Analysis-yellow?style=flat-square)](https://www.python.org/)
 [![Task Scheduler](https://img.shields.io/badge/Task_Scheduler-Windows-lightblue?style=flat-square)](https://learn.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page)  
 
-📝 **Description:**  
-Designed and implemented a log monitoring workflow to track and analyze HTTP 404 errors on web servers. The workflow collects Apache access logs, automates log extraction via Bash scripting and cron jobs, and processes data using a Python script to detect unusual traffic patterns. The final analysis is scheduled on Windows Task Scheduler to ensure continuous monitoring and proactive issue resolution.  
+📝 **Description:** Designed and implemented a log monitoring workflow to track and analyze HTTP 404 errors on web servers. The workflow collects Apache access logs, automates log extraction via Bash scripting and cron jobs, and processes data using a Python script to detect unusual traffic patterns. The final analysis is scheduled on Windows Task Scheduler to ensure continuous monitoring and proactive issue resolution.  
 
 🔗 **Report:** [Log Monitoring Workflow Report](https://github.com/AGruneva/LHL-Projects/blob/main/Log%20Monitoring%20Workflow.pdf)
 ---
