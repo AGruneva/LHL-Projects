@@ -4,7 +4,7 @@
 
 ### Welcome to my cybersecurity portfolio! Here, you'll find a collection of projects showcasing my skills in vulnerability assessment, incident response, and security automation.
 ---
-## 🔍 Network Administration Report  
+## 🔍 Network Administration  
 **Tools Used:**  
 [![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)](https://nmap.org/)
 [![Wireshark 4.4.2](https://img.shields.io/badge/Wireshark-4.4.2-1679A7?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
@@ -13,7 +13,7 @@
 
 🔗 **Report:** [Network Administration Report](https://github.com/AGruneva/LHL-Projects/blob/main/Network%20Administration.pdf)
 ---
-## 📊 Risks & Vulnerabilities Report  
+## 📊 Risks & Vulnerabilities  
 **Tools Used:**  
 [![PRTG Network Monitor](https://img.shields.io/badge/PRTG_Network_Monitor-orange?style=flat-square)](https://www.paessler.com/prtg)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
@@ -35,4 +35,13 @@
 📝 **Description:** Designed and implemented a log monitoring workflow to track and analyze HTTP 404 errors on web servers. The workflow collects Apache access logs, automates log extraction via Bash scripting and cron jobs, and processes data using a Python script to detect unusual traffic patterns. The final analysis is scheduled on Windows Task Scheduler to ensure continuous monitoring and proactive issue resolution.  
 
 🔗 **Report:** [Log Monitoring Workflow Report](https://github.com/AGruneva/LHL-Projects/blob/main/Log%20Monitoring%20Workflow.pdf)
+---
+## 📑 Playbook for Cat & Box Scenario
+**Tools Used:**  
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
+[![NIST](https://img.shields.io/badge/NIST_CSF-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+
+📝 **Description:** Incident Response Plan developed for Box Manufacturing to manage ransomware attacks, integrating the NIST Cybersecurity Framework and MITRE ATT&CK models. It outlines a structured workflow with six key steps—Preparation, Identification, Containment, Eradication, Recovery, and Post-Incident Review—assigning roles and responsibilities to internal teams and external specialists. The playbook emphasizes effective communication, providing tailored templates for both technical and non-technical stakeholders, ensuring swift and clear action to minimize operational disruption and protect system integrity.  
+
+🔗 **Report:** [Playbook for Cat & Dog Scenario Report](https://github.com/AGruneva/LHL-Projects/blob/main/Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
 ---
