@@ -45,3 +45,25 @@
 
 🔗 **Report:** [Playbook for Cat & Dog Scenario Report](https://github.com/AGruneva/LHL-Projects/blob/main/Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
 ---
+## 🛡️ Capstone Project. Premium House Lights Data Breach
+**Tools Used:**  
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
+[![NIST](https://img.shields.io/badge/NIST_CSF-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![OWASP](https://img.shields.io/badge/OWASP_Security_Framework-blue?style=flat-square)](https://owasp.org/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-red?style=flat-square)](https://www.lockheedmartin.com/en-us/capabilities/cyber-kill-chain.html)
+[![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)](https://nmap.org/)
+[![Wireshark 4.4.2](https://img.shields.io/badge/Wireshark-4.4.2-1679A7?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Unix/Linux Command](https://img.shields.io/badge/Unix/Linux_Command-green?style=flat-square)](https://www.gnu.org/)
+[![MySQL Commands](https://img.shields.io/badge/MySQL_Commands-blue?style=flat-square)](https://dev.mysql.com/doc/)
+
+📝 **Description:** The Manager Email focuses on developing a comprehensive security strategy to protect customer data, particularly payment and personal details, from potential data breaches. This includes recommendations to enhance security policies and systems to prevent data exfiltration, ensuring alignment with industry standards.
+
+The Incident Response Report documents the company's response to a cyberattack, covering the sequence of events, detection and containment methods, recovery steps, and recommendations for improving future incident handling. 
+
+The presentation Actions on Objective (Data Exfiltration): Premium House Lights Data Breach outlines the actions taken during a data breach scenario. It specifically describes how an adversary exploited a web shell to steal customer data and exfiltrated it using scp. Key recommendations include improving security through DLP, IDS/IPS, monitoring outbound traffic, and disabling unnecessary protocols to prevent similar attacks.
+
+🔗 **Reports:**  
+[Manager Email](https://github.com/AGruneva/LHL-Projects/blob/main/Capstone%20Project_Manager%20Email.pdf)  
+[Incident Response Report](https://github.com/AGruneva/LHL-Projects/blob/main/Capstone%20Project_Incident%20Response%20Report.pdf)  
+[Actions on Objective (Data Exfiltration): Premium House Lights Data Breach](https://github.com/AGruneva/LHL-Projects/blob/main/Capstone%20Project_Actions%20on%20Objective%20(Data%20Exfiltration).%20Premium%20House%20Lights%20Data%20Breach.pdf)
+---
