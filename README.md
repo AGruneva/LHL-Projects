@@ -46,7 +46,7 @@
 🔗 **Report:** [Playbook for Cat & Dog Scenario Report](https://github.com/AGruneva/LHL-Projects/blob/main/Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
 ---
 ## 🔒 Risk Management
-**Tools Used:** 
+**Tools Used:**  
 [![ISO/IEC 27001](https://img.shields.io/badge/ISO/IEC_27001-grey?style=flat-square)](https://www.iso.org/standard/27001)
 [![NIST](https://img.shields.io/badge/NIST_CSF-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
@@ -54,6 +54,19 @@
 📝 **Description:** This project is a structured analysis of DHA Enterprise Inc.'s (DHAEI) information security risks within its Information Security Management System (ISMS). It follows ISO 27001 standards and aims to identify, assess, and mitigate key risks such as unauthorized access, data breaches, and system downtime. The document outlines a risk assessment methodology, including risk prioritization based on likelihood and impact, and provides mitigation strategies like multi-factor authentication (MFA), network segmentation, encryption, and backup planning.  
 
 🔗 **Report:** [Risk Management Report](https://github.com/AGruneva/LHL-Projects/blob/main/Risk%20Management.pdf)
+---
+## 🛠 Vulnerability Assessment
+**Tools Used:**  
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-brightgreen?style=flat-square)](https://www.openvas.org/)
+[![Linux](https://img.shields.io/badge/Linux-blue?style=flat-square)](https://www.linux.org/)
+[![Windows 11](https://img.shields.io/badge/Windows_11-blue?style=flat-square)](https://www.microsoft.com/en-us/windows/windows-11)
+[![NIST](https://img.shields.io/badge/NIST_CSF-orange?style=flat-square)](https://www.nist.gov/cyberframework)
+[![MITRE CWE](https://img.shields.io/badge/MITRE_CWE-red?style=flat-square)](https://cwe.mitre.org/)
+[![OWASP](https://img.shields.io/badge/OWASP-darkblue?style=flat-square)](https://owasp.org/)
+
+📝 **Description:** This project is a comprehensive vulnerability assessment conducted to identify security weaknesses in two critical systems: a Linux server and a Windows 11 machine. Using OpenVAS, the assessment uncovered one high-severity vulnerability, along with three medium and three low-severity findings. The most critical issue was an FTP vulnerability that allowed access using weak credentials, posing a risk of data breaches and compliance violations. To mitigate risks, immediate actions were recommended, such as enforcing strong password policies, enabling multi-factor authentication (MFA), and replacing unsecured protocols (FTP/HTTP) with secure alternatives (SFTP/HTTPS). Long-term security improvements include regular vulnerability scans, firewall optimizations, and employee security awareness training. The recommendations align with NIST and MITRE cybersecurity frameworks to enhance system resilience and protect sensitive data.  
+
+🔗 **Report:** [Vulnerability Assessment Report](https://github.com/AGruneva/LHL-Projects/blob/main/Vulnerability%20Assessment.pdf)
 ---
 ## 🛡️ Capstone Project. Premium House Lights Data Breach
 **Tools Used:**  
