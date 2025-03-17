@@ -45,6 +45,16 @@
 
 🔗 **Report:** [Playbook for Cat & Dog Scenario Report](https://github.com/AGruneva/LHL-Projects/blob/main/Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
 ---
+## 🔒 Risk Management
+**Tools Used:** 
+[![ISO/IEC 27001](https://img.shields.io/badge/ISO/IEC_27001-grey?style=flat-square)](https://www.iso.org/standard/27001)
+[![NIST](https://img.shields.io/badge/NIST_CSF-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
+
+📝 **Description:** This project is a structured analysis of DHA Enterprise Inc.'s (DHAEI) information security risks within its Information Security Management System (ISMS). It follows ISO 27001 standards and aims to identify, assess, and mitigate key risks such as unauthorized access, data breaches, and system downtime. The document outlines a risk assessment methodology, including risk prioritization based on likelihood and impact, and provides mitigation strategies like multi-factor authentication (MFA), network segmentation, encryption, and backup planning.  
+
+🔗 **Report:** [Risk Management Report](https://github.com/AGruneva/LHL-Projects/blob/main/Risk%20Management.pdf)
+---
 ## 🛡️ Capstone Project. Premium House Lights Data Breach
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
