@@ -68,6 +68,15 @@
 
 🔗 **Report:** [Vulnerability Assessment Report](https://github.com/AGruneva/LHL-Projects/blob/main/Vulnerability%20Assessment.pdf)
 ---
+## 📜 IR Plan, Playbook and Policy
+**Tools Used:**  
+[![NIST](https://img.shields.io/badge/NIST_CSF-orange?style=flat-square)](https://www.nist.gov/cyberframework)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
+
+📝 **Description:** This project focuses on developing and implementing a Ransomware Incident Response Playbook for Nova Scotia Power (NSP), a major electricity provider in Nova Scotia. The playbook is designed to help NSP effectively prevent, detect, respond to, and recover from ransomware attacks, minimizing operational disruptions and ensuring compliance with regulatory standards. The approach follows NIST guidelines and includes key elements such as employee training, real-time monitoring, system isolation, forensic analysis, and post-incident reviews. Additionally, the project outlines supporting policies, including communications, incident data collection, and access control policies, to ensure a structured and transparent response to security incidents.  
+
+🔗 **Report:** [IR Plan, Playbook and Policy Report](https://github.com/AGruneva/LHL-Projects/blob/main/IR%20Plan%2C%20Playbook%20and%20Policy.pdf)
+---
 ## 🛡️ Capstone Project. Premium House Lights Data Breach
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
