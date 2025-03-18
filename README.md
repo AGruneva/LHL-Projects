@@ -77,6 +77,14 @@
 
 🔗 **Report:** [IR Plan, Playbook and Policy Report](https://github.com/AGruneva/LHL-Projects/blob/main/IR%20Plan%2C%20Playbook%20and%20Policy.pdf)
 ---
+## 🔑 Cyber Best Practices
+**Tools Used:**  
+[![NIST](https://img.shields.io/badge/NIST_CSF-orange?style=flat-square)](https://www.nist.gov/cyberframework)
+
+📝 **Description:** This project is a comprehensive guide focused on strengthening organizational cybersecurity. The report covers key areas including strong password creation, multi-factor authentication (MFA), secure email communication using personal certificates, VPN protection for remote access, and encryption for portable devices. Drawing from NIST guidelines and best industry practices, it provides actionable recommendations to protect sensitive data, prevent unauthorized access, and build a strong security culture within organizations..  
+
+🔗 **Report:** [Cyber Best Practices Report](https://github.com/AGruneva/LHL-Projects/blob/main/Cyber%20Best%20Practices.pdf)
+---
 ## 🛡️ Capstone Project. Premium House Lights Data Breach
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
