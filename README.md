@@ -128,7 +128,7 @@
 [![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-red?style=flat-square)](https://www.lockheedmartin.com/en-us/capabilities/cyber-kill-chain.html)
 [![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)](https://nmap.org/)
 [![Wireshark 4.4.2](https://img.shields.io/badge/Wireshark-4.4.2-1679A7?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Unix/Linux Command](https://img.shields.io/badge/Unix/Linux_Command-green?style=flat-square)](https://www.gnu.org/)
+[![Unix/Linux Commands](https://img.shields.io/badge/Unix/Linux_Commands-green?style=flat-square)](https://www.gnu.org/)
 [![MySQL Commands](https://img.shields.io/badge/MySQL_Commands-blue?style=flat-square)](https://dev.mysql.com/doc/)
 
 📝 **Description:** The Manager Email focuses on developing a comprehensive security strategy to protect customer data, particularly payment and personal details, from potential data breaches. This includes recommendations to enhance security policies and systems to prevent data exfiltration, ensuring alignment with industry standards.
