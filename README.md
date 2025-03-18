@@ -95,6 +95,31 @@
 
 🔗 **Report:** [Investigation&Research Report: LifeLabs Data Breach](https://github.com/AGruneva/LHL-Projects/blob/main/Investigation%26Research%20Report%20LifeLabs%20Dada%20Breach.pdf)
 ---
+## 🧑‍💻 Forensics Report and Documentation
+**Tools Used:**  
+[![Volatility](https://img.shields.io/badge/Volatility-3.2.5.2-blue?style=flat-square)](https://www.volatilityfoundation.org/)
+[![FTK Imager](https://img.shields.io/badge/FTK_Imager-4.7.1.2-green?style=flat-square)](https://accessdata.com/product-download)
+[![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-v2.0.0.0-purple?style=flat-square)](https://github.com/hasherezade/RegistryExplorer)
+[![Wireshark](https://img.shields.io/badge/Wireshark-3.4.7-blue?style=flat-square)](https://www.wireshark.org/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Online-yellow?style=flat-square)](https://www.virustotal.com/)
+[![TimeLine Explorer](https://img.shields.io/badge/TimeLine_Explorer-v2.0.0.1-orange?style=flat-square)](https://www.timelineexplorer.com/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-red?style=flat-square)](https://www.lockheedmartin.com/en-us/capabilities/cyber-kill-chain.html)
+
+📝 **Description:** The "Forensics Report and Documentation Case 001 - The Stolen Szechuan Sauce" is a detailed forensic investigation into a breach involving a Windows Server 2012 R2 and a Windows 10 Enterprise desktop within a victim's network. The breach was caused by a brute-force attack exploiting weak RDP credentials, leading to the installation of the Coreupdater.exe Remote Access Trojan (RAT) on both systems. Using forensic tools such as Volatility, FTK Imager, and Wireshark, the report documents the attack's timeline, malware's behavior, its persistence methods, and network indicators. It highlights critical vulnerabilities, including weak authentication protocols and the importance of monitoring for malicious network activity, providing actionable insights for strengthening network security.
+
+🔗 **Report:** [Forensics Report and Documentation](https://github.com/AGruneva/LHL-Projects/blob/main/Forensics%20Report%20and%20Documentation.pdf)
+---
+## 🏛️ Secure Architecture Report and Recommendations
+**Tools Used:**  
+[![NIST](https://img.shields.io/badge/NIST_CSF-orange?style=flat-square)](https://www.nist.gov/cyberframework)
+[![PCI DSS](https://img.shields.io/badge/PCI%20DSS-brightgreen?style=flat-square)](https://www.pcisecuritystandards.org/)
+[![CIS Controls](https://img.shields.io/badge/CIS%20Controls-blue?style=flat-square)](https://www.cisecurity.org/controls)
+
+📝 **Description:** This report outlines a comprehensive security strategy to address the vulnerabilities of a growing e-commerce company. The report assesses the current security posture and identifies critical risks, such as weak authentication, outdated endpoint security, and lack of network monitoring. It proposes key security improvements based on industry best practices, including network segmentation, multi-factor authentication (MFA), strong data encryption, and continuous network monitoring. The report also provides a phased implementation plan, ranging from immediate enhancements to long-term security maturity, ensuring the company strengthens its defenses, mitigates risks, and maintains customer trust as it expands.
+
+🔗 **Report:** [Secure Architecture Report and Recommendations](https://github.com/AGruneva/LHL-Projects/blob/main/Secure%20Architecture%20Report%20and%20Recommendations.pdf)
+---
 ## 🛡️ Capstone Project. Premium House Lights Data Breach
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
