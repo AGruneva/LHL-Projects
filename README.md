@@ -81,9 +81,19 @@
 **Tools Used:**  
 [![NIST](https://img.shields.io/badge/NIST_CSF-orange?style=flat-square)](https://www.nist.gov/cyberframework)
 
-📝 **Description:** This project is a comprehensive guide focused on strengthening organizational cybersecurity. The report covers key areas including strong password creation, multi-factor authentication (MFA), secure email communication using personal certificates, VPN protection for remote access, and encryption for portable devices. Drawing from NIST guidelines and best industry practices, it provides actionable recommendations to protect sensitive data, prevent unauthorized access, and build a strong security culture within organizations..  
+📝 **Description:** This project is a comprehensive guide focused on strengthening organizational cybersecurity. The report covers key areas including strong password creation, multi-factor authentication (MFA), secure email communication using personal certificates, VPN protection for remote access, and encryption for portable devices. Drawing from NIST guidelines and best industry practices, it provides actionable recommendations to protect sensitive data, prevent unauthorized access, and build a strong security culture within organizations.  
 
 🔗 **Report:** [Cyber Best Practices Report](https://github.com/AGruneva/LHL-Projects/blob/main/Cyber%20Best%20Practices.pdf)
+---
+## 🕵️‍♂️ Investigation&Research Report: LifeLabs Data Breach
+**Tools Used:**  
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-purple?style=flat-square)](https://attack.mitre.org/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-red?style=flat-square)](https://www.lockheedmartin.com/en-us/capabilities/cyber-kill-chain.html)
+[![NIST](https://img.shields.io/badge/NIST_CSF-orange?style=flat-square)](https://www.nist.gov/cyberframework)
+
+📝 **Description:** This report investigates the 2019 LifeLabs data breach, which compromised the personal and health information of approximately 15 million Canadians. The research analyzes how attackers exploited unpatched vulnerabilities in LifeLabs' systems, deployed ransomware, and demanded ransom for stolen data. The report outlines key security weaknesses, details the attack using MITRE ATT&CK and Cyber Kill Chain frameworks, and examines the legal, financial, and reputational consequences for the company. Finally, it provides actionable recommendations for strengthening cybersecurity measures in the healthcare sector.
+
+🔗 **Report:** [Investigation&Research Report: LifeLabs Data Breach](https://github.com/AGruneva/LHL-Projects/blob/main/Investigation%26Research%20Report%20LifeLabs%20Dada%20Breach.pdf)
 ---
 ## 🛡️ Capstone Project. Premium House Lights Data Breach
 **Tools Used:**  
